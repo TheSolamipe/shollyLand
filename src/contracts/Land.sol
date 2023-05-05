@@ -35,13 +35,13 @@ contract Land is ERC721 {
             Building("Allfather Arena", address(0x0), 0, -10, 0, 5, 10, 5)
         );
         buildings.push(
-            Building("Doom Eternal Hub", address(0x0), 10, 0, 0, 10, 25, 10)
+            Building("Doom Eternal Hub", address(0x0), 10, 0, 0, 10, 15, 10)
         );
         buildings.push(
             Building("High-tech Space", address(0x0), -10, 0, 0, 10, 5, 8)
         );
         buildings.push(
-            Building("Learning Hub", address(0x0), 20, 0, 0, 25, 10, 10)
+            Building("Learning Hub", address(0x0), 5, 10, 0, 20, 10, 10)
         );
         buildings.push(
             Building("Shopping Mall", address(0x0), 0, 20, 0, 5, 10, 15)
@@ -53,7 +53,7 @@ contract Land is ERC721 {
             Building("Astra-research Hub", address(0x0), -20, 0, 0, 3, 10, 8)
         );
         buildings.push(
-            Building("Chiba Station", address(0x0), -30, 0, 0, 13, 10, 5)
+            Building("Chiba Station", address(0x0), -10, 20, 0, 13, 10, 5)
         );
     }
 
